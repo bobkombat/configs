@@ -1,0 +1,1 @@
+/home/bobkombat/shell-setup.sh
